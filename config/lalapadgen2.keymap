@@ -78,7 +78,7 @@
         SECONDARY_LAYER {
             display-name = "secondary_layer";
             bindings = <
-&kp NUMBER_1      &kp NUMBER_2       &kp NUMBER_3  &kp NUMBER_4  &kp N5                    &mkp LCLK             &kp EXCLAMATION        &kp MINUS         &kp EQUAL          &kp GRAVE
+&kp NUMBER_1      &kp NUMBER_2       &kp NUMBER_3  &kp NUMBER_4  &kp N5                    &mkp LCLK             &kp EXCLAMATION        &kp CARET         &kp EQUAL          &kp GRAVE
 &kp NUMBER_6      &kp N7             &kp N8        &kp N9        &kp N0                    &mkp RCLK             &kp AT_SIGN            &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp BACKSLASH
 &trans            &kp F6             &kp F8        &kp F9        &kp F10                   &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp SEMICOLON     &kp SINGLE_QUOTE   &kp ASTERISK
 &trans            &trans             &trans        &trans        &trans   &trans  &kp DEL  &trans                &trans                 &trans            &trans             &trans
