@@ -45,14 +45,7 @@
         };
     };
 
-    combos {
-        compatible = "zmk,combos";
-
-        CONBO_ESC {
-            bindings = <&kp ESCAPE>;
-            key-positions = <0 1>;
-        };
-    };
+    combos { compatible = "zmk,combos"; };
 
     keymap {
         compatible = "zmk,keymap";
